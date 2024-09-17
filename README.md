@@ -1,5 +1,5 @@
-<h1 align="center">Hola! Soy Álvaro Luque</h1>
-<h3 align="center">Estudio Desarrollo de Aplicaciones Web</h3>
+<h1 align="center">Hola! soy Álvaro Luque</h1>
+<h3 align="center">Desarrollo de Aplicaciones Web</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
