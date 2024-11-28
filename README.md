@@ -1,13 +1,13 @@
 <h1 align="center">Álvaro Luque</h1>
 Hi! I am a Junior Web Developer passionate about learning and growing in the world of web development.
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 Currently enhancing my knowledge in web development.  
-- 🌱 Learning new technologies and tools to solve real-world problems.  
-- 🎯 Looking for opportunities to collaborate on exciting projects.  
+-  Currently enhancing my knowledge in web development.  
+-  Learning new technologies and tools to solve real-world problems.  
+-  Looking for opportunities to collaborate on exciting projects.  
 
-## 🛠️ Skills and Tools  
+## Skills and Tools  
 
 Here are the technologies and tools I work with:  
 
@@ -21,7 +21,7 @@ Here are the technologies and tools I work with:
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 
-## 📚 Featured Repositories  
+## Featured Repositories  
 
 Here is a list of some of my repositories on GitHub:  
 
