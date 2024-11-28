@@ -20,18 +20,18 @@ Here are the technologies and tools I work with:
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 
-## 📚 Repositorios Destacados  
+## 📚 Featured Repositories  
 
-Aquí hay una lista de algunos de mis repositorios en GitHub:  
+Here is a list of some of my repositories on GitHub:  
 
 - [**pokemonApp**](https://github.com/aluqmor/pokemonApp)  
-  **Descripción:** Aplicación básica para listar Pokemon.  
-  **Tecnologías Usadas:** HTML, CSS, PHP.  
+  **Description:** Basic application to list Pokémon.  
+  **Technologies Used:** HTML, CSS, PHP.  
 
 - [**pokemonAppLaravel**](https://github.com/aluqmor/pokemonAppLaravel)  
-  **Descripción:** Aplicación básica para listar Pokemon.  
-  **Tecnologías Usadas:** HTML, CSS, Laravel.  
+  **Description:** Basic application to list Pokémon.  
+  **Technologies Used:** HTML, CSS, Laravel.  
 
 - [**subirArchivosApp**](https://github.com/aluqmor/subirArchivosApp)  
-  **Descripción:** Aplicación básica para subir imágenes.  
-  **Tecnologías Usadas:** HTML, CSS, Laravel.  
+  **Description:** Basic application for uploading images.  
+  **Technologies Used:** HTML, CSS, Laravel. 
