@@ -27,12 +27,16 @@ Here is a list of some of my repositories on GitHub:
 
 - [**pokemonApp**](https://github.com/aluqmor/pokemonApp)  
   **Description:** Basic application to list Pokémon.  
-  **Technologies Used:** HTML, CSS, PHP.  
+  **Technologies Used:** HTML, CSS, MySQL, PHP.  
 
 - [**pokemonAppLaravel**](https://github.com/aluqmor/pokemonAppLaravel)  
   **Description:** Basic application to list Pokémon.  
-  **Technologies Used:** HTML, CSS, Laravel.  
+  **Technologies Used:** HTML, CSS, MySQL, Laravel.  
 
 - [**subirArchivosApp**](https://github.com/aluqmor/subirArchivosApp)  
   **Description:** Basic application for uploading images.  
-  **Technologies Used:** HTML, CSS, Laravel. 
+  **Technologies Used:** HTML, CSS, MySQL, Laravel.
+
+- [**userApp**](https://github.com/aluqmor/userApp)  
+  **Description:** Basic application for handling users.  
+  **Technologies Used:** HTML, CSS, MySQL, Laravel. 
