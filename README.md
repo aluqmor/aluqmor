@@ -39,4 +39,8 @@ Here is a list of some of my repositories on GitHub:
 
 - [**userApp**](https://github.com/aluqmor/userApp)  
   **Description:** Basic application for handling users.  
-  **Technologies Used:** HTML, CSS, MySQL, Laravel. 
+  **Technologies Used:** HTML, CSS, MySQL, Laravel.
+
+- [**shopApp**](https://github.com/aluqmor/shopApp)  
+**Description:** Basic application for buying products.  
+**Technologies Used:** HTML, CSS, MySQL, Laravel.
